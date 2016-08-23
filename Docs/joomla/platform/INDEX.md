@@ -49,6 +49,7 @@ One of its primary strengths is its usability. Whether you are a student just ge
 * [United Kingdom Stabilisation Unit](http://www.stabilisationunit.gov.uk/)
 * [Harvard University](http://gsas.harvard.edu/)
 * [Guggenheim](http://www.guggenheim.org/)
+* [plaque psoriasis](http://nopsoriasis.net/types-of-psoriasis/)
 * [United Nations Regional Information Centre](http://www.unric.org/en/)
 
 [graffito]: assets/wp_graffito.jpg
